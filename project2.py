@@ -1,3 +1,5 @@
+# Current most up to date version- this code allows you to enter multiple ingredients, ingredients to exclude, and max calories to search for recipes from the Edamam API.
+
 import requests
 
 
