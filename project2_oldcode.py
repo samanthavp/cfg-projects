@@ -1,3 +1,5 @@
+# Original code with the basic function of searching recipes from one inputted ingredient
+
 import requests
 
 
